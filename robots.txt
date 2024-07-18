@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tacilemong.github.io/sitemap
+Sitemap: https://tacilemong.github.io/app/sitemap
+Sitemap: https://tacilemong.github.io/assets/sitemap
+Sitemap: https://tacilemong.github.io/css/sitemap
+Sitemap: https://tacilemong.github.io/includes/sitemap
+Sitemap: https://tacilemong.github.io/item/sitemap
+Sitemap: https://tacilemong.github.io/src/sitemap
